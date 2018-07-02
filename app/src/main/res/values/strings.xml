@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwitterAPI</string>
+
+// Add  Twitter keys
+        <string name="twitter_consumer_key" translatable="false">  </string>
+        <string name="twitter_consumer_secret" translatable="false"> </string>
+
+</resources>

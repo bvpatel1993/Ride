@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "673865774302",
+    "firebase_url": "https://testingtwitterapi-13916.firebaseio.com",
+    "project_id": "testingtwitterapi-13916",
+    "storage_bucket": "testingtwitterapi-13916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673865774302:android:29f4608c4bba6299",
+        "android_client_info": {
+          "package_name": "com.darkweb.android.twitterapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673865774302-592uhnneom13oa5pc8tspou24uj0aj1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLx5VlVNPG8VT4VVDUgE-YBilz51fAZPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
